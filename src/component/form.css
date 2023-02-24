@@ -1,0 +1,15 @@
+#form{
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   align-items: center;
+   height: 800px;
+}
+#submit{
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   align-content: center;
+   height: 800px;
+}
